@@ -1,4 +1,4 @@
 {
   "cleanUrls": true,
-  "redirects":[{"source":"/", "destination": "https://github.com/vercel/vercel"}]
+  "redirects":[{"source":"/", "destination": "https://github.com/vikramsinghranain"}]
 }
