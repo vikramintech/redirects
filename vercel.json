@@ -1,4 +1,8 @@
 {
   "cleanUrls": true,
-  "redirects":[{"source":"/", "destination": "https://github.com/vikramsinghranain"}]
+  "redirects":[{"source":"/", "destination": "https://github.com/vikramsinghranain"},
+  {"source":"random", "destination":"https://3pb24q.csb.app/ "}]
+  
+}
+
 }
